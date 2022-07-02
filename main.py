@@ -7,9 +7,9 @@ george = turtle.Turtle('turtle')
 george.width(5)
 george.color('blue')
 
-for _ in range(3):
+for _ in range(4):
     george.forward(70)
-    george.left(120)
+    george.left(90)
 
 george.penup()
 
