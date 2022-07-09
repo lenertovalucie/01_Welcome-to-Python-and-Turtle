@@ -14,7 +14,7 @@
 - pokud obrázek stále nevidíte, vytvořte novou kopii původního kódu:
 https://replit.com/@LucieLenertova/Welcome-to-Python-and-Turtle
 ### Výzva
-- pokud vám zbývá ještě čas, upravte obrázek takto:
+- upravte obrázek takto:
 ![úkol](assets/turtle_after_2.PNG)
 ### Výzva 2
 - jaký další geometrický tvar zvládnete s želvičkou nakreslit?
